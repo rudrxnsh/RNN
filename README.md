@@ -1,5 +1,5 @@
 # RNN
-This repo is to deal with the issues of RNN
+This repository is to deal with the issues of RNN
 
 - ways to deal with RNN problems
 - 1) use LSTM
