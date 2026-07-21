@@ -8,3 +8,4 @@ This repository is to deal with the issues of RNN
 
 
 The main issue with RNN is that they lose the context as it length getting long. 
+Vanish Gradient Problem creates a serious issue with training weights
